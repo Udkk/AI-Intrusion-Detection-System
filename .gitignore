@@ -27,3 +27,13 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Old project files
+/dashboard.py
+/README.md
+/requirement.txt
+/dataset/
+/logs/
+/ml_engine/
+/network_monitor/
+/threat_intel/
