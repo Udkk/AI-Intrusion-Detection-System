@@ -50,7 +50,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/Udkk/AI-Intrusion-Detection-System.git"
             target="_blank"
             rel="noreferrer"
             className="rounded-xl border border-slate-700 px-8 py-4 font-semibold text-slate-300 transition hover:border-emerald-400 hover:text-white"
